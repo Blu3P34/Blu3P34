@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Dao Minh Duy, but it's fine if you call me Jodalynn.
+- 👋 Hi, my name is Dao Minh Duy, but it's fine if you call me Jodalynn, Pea, Pi or whatever you prefer.
 - I'm currently a physics student.
 - I'm learning Web developement to iniate projects required webpages and softwares by myself . 
 - 📫 How to reach me 
